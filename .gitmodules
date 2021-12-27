@@ -1,0 +1,15 @@
+[submodule "CustomApplication"]
+	path = CustomApplication
+	url = ../CustomApplication.git
+[submodule "CustomItem"]
+	path = CustomItem
+	url = ../CustomItem.git
+[submodule "CustomScene"]
+	path = CustomScene
+	url = ../CustomScene.git
+[submodule "CustomSetting"]
+	path = CustomSetting
+	url = ../CustomSetting.git
+[submodule "GLScene"]
+	path = GLScene
+	url = ../GLScene.git
